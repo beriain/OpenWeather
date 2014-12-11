@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenWeather</string>
+    <string name="action_settings">Ezarpenak</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="searchByCity">Hiria bilatu</string>
+    <string name="searchByCoordinates">Koordenatuak bilatu</string> 
+    <string name="changeCity">Hiria aldatu</string>
+    <string name="reset">Eguneratu</string>
+    <string name="forecast">Iragarpena</string>
+    <string name="writeCrd">Koordenatuak (lat. eta long.) </string>
+    <string name="London">Minsk</string>
+    <string name="lat">46.99</string>
+    <string name="lon">32</string>
+    <string name="temperatureDN">Tenperatura egunez/gauez</string>
+    <string name="description">Deskribapena</string>
+    <string name="enterYourCityHere">Idatzi zure hiria hemen</string>
+    
+    
+    <string name="temperature">Tenperatura:</string>
+    <string name="temperatureCUnit">°C</string>
+    <string name="humidity">Hezetasuna:</string>
+    <string name="percent">%</string>
+    <string name="pressure">Presioa:</string>
+    <string name="pressureUnit">kPa</string>
+    <string name="wind">Haizea:</string>
+    <string name="speedUnit">m/s</string>
+    <string name="clouds">Hodeiak:</string>
+    
+    <string name="N">iparraldekoa</string>
+    <string name="NE">ipar-ekialdekoa</string>
+    <string name="E">ekialdekoa</string>
+    <string name="SE">hego-ekialdekoa</string>
+    <string name="S">hegoaldekoa</string>
+    <string name="SW">hego-mendebaldekoa</string>
+    <string name="W">mendebaldekoa</string>
+    <string name="NW">ipar-mendebaldekoa</string>
+    
+    <string name="d200">Ekaitza euri arinarekin</string>
+    <string name="d201">Ekaitza euriarekin</string>
+    <string name="d202">Ekaitza euri handiarekin</string>
+    <string name="d210">Ekaitz arina</string>
+    <string name="d211">Ekaitza</string>
+    <string name="d212">Ekaitz handia</string>
+    <string name="d221">Ekaitz aldakorra</string>
+    <string name="d230">Ekaitza zirimiri arinarekin</string>
+    <string name="d231">Ekaitza zirimiriarekin</string>
+    <string name="d232">Ekaitza zirimiri handiarekin</string>
+    
+    <string name="d300">Intentsitate arineko zirimiria</string>
+    <string name="d301">Zirimiria</string>
+    <string name="d302">Intentsiate handiko zirimiria</string>
+    <string name="d310">Intentsitate arineko zirimiri euria</string>
+    <string name="d311">Zirimiri euria</string>
+    <string name="d312">Intentsitate handiko zirimiri euria</string>
+    <string name="d313">Zaparrada eta zirimiria</string>
+    <string name="d314">Zaparrada eta zirimiri handiak</string>
+    <string name="d321">Zirimiri zaparrada</string>
+    
+    <string name="d500">Euri arina</string>
+    <string name="d501">Euri moderatua</string>
+    <string name="d502">Intentsitate handiko euria</string>
+    <string name="d503">Euri oso indartsua</string>
+    <string name="d504">Izugarrizko euria</string>
+    <string name="d511">Izozte euria</string>
+    <string name="d520">Intentsitate arineko euri zaparrada</string>
+    <string name="d521">Zaparrada</string>
+    <string name="d522">Intentsitate handiko euri zaparrada</string>
+    <string name="d531">Euri zaparrada aldakorra</string>
+    
+    <string name="d600">Elur arina</string>
+    <string name="d601">Elurra</string>
+    <string name="d602">Elur handia</string>
+    <string name="d611">Elur bustia</string>
+    <string name="d612">Elur busti zaparrada</string>
+    <string name="d615">Euri arina eta elurra</string>
+    <string name="d616">Euria eta elurra</string>
+    <string name="d620">Elur zaparrada arina</string>
+    <string name="d621">Elur zaparrada</string>
+    <string name="d622">Elur zaparrada handia</string>
+    
+    <string name="d701">Lainoa</string>
+    <string name="d711">Kea</string>
+   	<string name="d721">Lanbroa</string>
+    <string name="d731">Hare/hauts zurrunbiloak</string>
+    <string name="d741">Lanbroa</string>
+    <string name="d751">Harea</string>
+    <string name="d761">Hautsa</string>
+    <string name="d762">ERRAUTS BOLKANIKOAK</string>
+    <string name="d771">ZAPARRADAK</string>
+    <string name="d781">TORNADOA</string>
+    
+    <string name="d800">Oskarbi</string>
+    <string name="d801">Hodei gutxi</string>
+    <string name="d802">Hodei sakabanatuak</string>
+    <string name="d803">Hodei zatituak</string>
+    <string name="d804">Hodei lainotsuak</string>
+     
+    <string name="d900">Tornadoa</string>
+    <string name="d901">Ekaitz tropikala</string>
+    <string name="d902">Urakana</string>
+    <string name="d903">Hotza</string>
+    <string name="d904">Beroa</string>
+    <string name="d905">Haizetsua</string>
+    <string name="d906">Kazkabarra</string>
+
+    <string name="d950">Haize aldakorra</string>
+    <string name="d951">Barealdia</string>
+    <string name="d952">Haize leun arina</string>
+    <string name="d953">Haize leuna</string>
+    <string name="d954">Haize leun moderatua</string>
+    <string name="d955">Haize leun freskoa</string>
+    <string name="d956">Haize leun indartsua</string>
+    <string name="d957">Haize handia, haizetetik hurbil</string>
+    <string name="d958">Haizetea</string>
+    <string name="d959">Haizete gogorra</string>
+    <string name="d960">Ekaitza</string>
+    <string name="d961">Ekaitz bortitza</string>
+	<string name="d962">Urakana</string>
+</resources>
